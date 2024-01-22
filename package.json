@@ -13,6 +13,7 @@
     "react-scroll": "^1.8.9",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "juanignacio.tech",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
