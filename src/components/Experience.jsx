@@ -68,7 +68,7 @@ const Experience = ({ darkMode }) => {
     },
   ];
 
-  const boxStyle = darkMode ? "" : "bg-gray-300"; // Agregar estilo de fondo para el modo claro
+  const boxStyle = darkMode ? "" : "bg-gray-300";
 
   return (
     <div
@@ -104,3 +104,4 @@ const Experience = ({ darkMode }) => {
 };
 
 export default Experience;
+
