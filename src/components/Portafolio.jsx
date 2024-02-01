@@ -17,6 +17,8 @@ const Portafolio = ({ darkMode }) => {
     {
       id: 2,
       src: reactParallax,
+      demoLink: process.env.PUBLIC_URL + "/src/assets/portfolio/expo.mp4",
+      codeLink:"https://github.com/JuanIgnacioAlvarez/presupuesto-en-react.git",
     },
     {
       id: 3,

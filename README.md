@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Portafolio de Juan Ignacio Alvarez
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ¡Bienvenido a mi Portafolio!
 
-## Available Scripts
+¡Hola! Soy Juan Ignacio Alvarez, un apasionado estudiante de informática y aspirante a programador. Mi objetivo es ingresar al mundo IT y contribuir con mi pasión por la programación y el desarrollo de software.
 
-In the project directory, you can run:
+## Secciones
 
-### `npm start`
+1. **Inicio:**
+   - ¡Bienvenido a [juanignacio.tech](https://juanignacio.tech)! Aquí encontrarás información sobre mí y mis proyectos.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. **Acerca de Mí:**
+   - Soy estudiante de informática con un fuerte interés en el desarrollo de software. Mi curiosidad y dedicación me llevan a aprender constantemente sobre nuevas tecnologías y prácticas de programación.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. **Tecnologías:**
+   - Trabajo con tecnologías como React, Spring Boot, y base de datos para construir aplicaciones modernas y eficientes.
 
-### `npm test`
+4. **Proyectos Destacados:**
+   - [Sistema de Recursos Humanos](https://github.com/JuanIgnacioAlvarez/Sistema-de-Recursos-Humanos-con-Spring-Boot-y-React.git): Desarrollé un sistema completo de gestión de recursos humanos utilizando Spring Boot y React.
+   - [Menú Digital](https://github.com/JuanIgnacioAlvarez/Menu-Digital.git): Creé una aplicación de menú digital para restaurantes utilizando tecnologías frontend y backend.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. **Contacto:**
+   - ¿Quieres hablar sobre un proyecto o simplemente saludar? ¡Envíame un mensaje a través del formulario de contacto en [juanignacio.tech](https://juanignacio.tech/contacto)!
 
-### `npm run build`
+## Redes Sociales y Enlaces
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [LinkedIn](https://www.linkedin.com/in/juan-ignacio-1294j20i30a)
+- [GitHub](https://github.com/JuanIgnacioAlvarez)
+- [Instagram](https://www.instagram.com/nacho.alvarez1294)
+- Email: contacto@juanignacio.tech
+- [Currículum Vitae](enlace a la descarga de tu currículum vitae)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Funcionalidades Especiales
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Un navbar que aparece al mover el mouse para una navegación fácil.
+- Un botón de flecha arriba para volver al inicio.
 
-### `npm run eject`
+## Capturas de Pantalla
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+¡Pronto añadiré capturas de mis proyectos más recientes!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Instalación y Ejecución Local (si aplicable)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Si deseas ver mi portafolio en tu máquina local, simplemente clona este repositorio y sigue las instrucciones en el archivo `INSTALL.md`.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Agradecimientos
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Agradezco a la comunidad de desarrollo y a mis mentores por su constante apoyo y aprendizaje compartido.
